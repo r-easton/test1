@@ -1,4 +1,12 @@
-"""TPRG2131 Winter 202x RC class starter with simplistic test code."""
+"""RC class starter with simplistic test code.
+TPRG 2131 Fall 2024 Test 1
+Novemebr, 2024
+Ryleigh Easton <ryleigh.easton@dcmail.ca>
+
+TPRG2131-01 Section 202443.13884
+This program is strickly my own work. Any material beyond course learning materials that is taken from
+the web or other sources is properly cited, givingcredit to the original author(s).
+"""
 
 class ResistorCapacitor (object):
     """Model a resistor-capacitor network"""
